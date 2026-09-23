@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">AOSP 完美图标</string>
+    <string name="app_name">AOSP图标</string>
     <string name="icon_count_text">共 %1$d 个可用图标</string>
     <string name="search_result_text">搜索到 %1$d / %2$d 个结果</string>
     <string name="search_hint">搜索应用名称、图标名或 Activity</string>
