@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">AOSP Perfect Icon</string>
+    <string name="app_name">AOSP图标</string>
     <string name="icon_count_text">%1$d icons available</string>
     <string name="search_result_text">%1$d / %2$d results</string>
     <string name="search_hint">Search by app, icon, or activity</string>
